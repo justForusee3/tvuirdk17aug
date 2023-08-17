@@ -1,5 +1,5 @@
 // var url = "aamps://dash.akamaized.net/dash264/TestCasesMCA/dolby/3/1/ChID_voices_20_128_ddp.mpd";
-var url = "aamps://www.itec.aau.at/dash/js/content/bunny_ibmff_1080.mpd";
+var url = "aamp://amssamples.streaming.mediaservices.windows.net/683f7e47-bd83-4427-b0a3-26a6c4547782/BigBuckBunny.ism/manifest(format=mpd-time-csf)";
 // https://https://
 var player;
 
