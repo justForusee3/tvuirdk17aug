@@ -1,4 +1,6 @@
-var url = "aamps://dash.akamaized.net/dash264/TestCasesMCA/dolby/3/1/ChID_voices_20_128_ddp.mpd";
+// var url = "aamps://dash.akamaized.net/dash264/TestCasesMCA/dolby/3/1/ChID_voices_20_128_ddp.mpd";
+var url = "aamps://www.itec.aau.at/dash/js/content/bunny_ibmff_1080.mpd";
+// https://https://
 var player;
 
 window.onload = function() {
